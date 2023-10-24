@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def raise_exceptionm,msq(msq):
-raisee NameErro(msq)
+def raise_exception_msq(msq):
+    raise NameError(msq)
